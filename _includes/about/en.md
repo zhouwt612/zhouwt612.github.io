@@ -24,11 +24,11 @@ These are my [**Blog**](https://wentaozhou.cn), [**Github**](http://github.com/z
 
 ##### Research Interests
 
-- Magnetic Induction Communication
-- Underwater Communication
-- Orthogonal Frequency Division Multiplexing
-- Software-defined Radio
-- Reinforcement Learning
+- Underwater Magnetic Induction Communication
+- Cell-free Massive MIMO Communications
+- Multiuser MIMO Communications
+- Convex Optimization
+- Machine Learning
 
 ##### Research Experience
 
