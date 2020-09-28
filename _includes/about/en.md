@@ -32,7 +32,7 @@ These are my [**Blog**](https://wentaozhou.cn), [**Github**](http://github.com/z
 
 ##### Research Experience
 
-- 03/2020 - Present: Korea University, New Engineering Building, South Korea
+- 03/2020 - Present: Korea University, New Engineering Building, South Korea  
   Research Assistant, Communication and Intelligence System Lab (CISL)
 
 - 03/2018 – 02/2020: Soongsil University, Engineering Building, South Korea  
