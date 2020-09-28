@@ -39,7 +39,7 @@
   Topic: Underwater Magnetic Induction Communication System
 
 ##### 获奖
-
+- 奖学金，高丽大学，Sep. 2020.
 - 优秀毕业生，桂林电子科技大学，Apr. 2020.
 - 最佳论文奖，韩国通信学会（KICS），Nov. 2019. 
 - VTS Seoul Chapter Award，APWCS，Aug. 2019.
