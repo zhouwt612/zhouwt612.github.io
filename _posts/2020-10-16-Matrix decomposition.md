@@ -32,4 +32,9 @@ tags:
 #### 8. 矩阵的几何均值分解 (Geometric Mean Decomposition)
 
 
-### 
+### 结尾
+在物理层通信学习中，难以避免各种矩阵分解，熟练掌握以上方法可以帮助我们更好的阅读参考文献。祝大家科研顺利！
+
+### Reference
+
+[矩阵分解的Matlab指令大全](https://wenku.baidu.com/view/c952870c76c66137ee0619a1.html#)
