@@ -24,4 +24,5 @@ tags:
 
 ### Reference
 
-[Spatial Correlation](https://en.wikipedia.org/wiki/Spatial_correlation)
+1. [Spatial Correlation](https://en.wikipedia.org/wiki/Spatial_correlation)
+2. [E. Björnson, J. Hoydis, and L. Sanguinetti, "Massive MIMO Networks: Spectral, Energy, and Hardware Efficiency," Foundations and Trends® in Signal Processing: Vol. 11, No. 3-4, pp 154–655.](https://massivemimobook.com/wp/)
