@@ -48,18 +48,51 @@ MATLAB代码：
 
 #### 3. 对称正定矩阵的Cholesky分解
 
+若矩阵 X 使对称正定的，Cholesky分解将矩阵分解成一个下三角矩阵 R 和一个上三角矩阵 R^T (下三角矩阵 R 的转置)的乘积。
 
-
+```
+R = chol(X)
+```
+X 非对称正定时，输出错误信息。为使该分解不输出错误信息，我们使用
+```
+[R,p] = chol(X)
+```
+对 X 进行分解。X 为对称正定时，p=0。否则 p 为一个正整数。如果 X 为满秩矩阵，则 R 为一个阶数为 q=p-1 的上三角阵，切满足 (R^T)R = X(1:q,1:q)。
 
 #### 4. 任意方阵的Schur分解
 
+任意一个 n 阶方阵 X 可以分解为 X=URU'，其中 U （unitiary）为酉矩阵，R 为上三角 schur 矩阵且其主对角线上的元素为 X 的特征值。
+```
+[U,R]=schur(X) 
+```
+
 #### 5. 任意方阵的Hessenbery分解
+
+任意一个 n 阶方阵 X 可以分解为 X=PHP', 其中 P 为酉矩阵, H 的第一子对角线下的元素均为 0，即 H 为 Hessenberg 矩阵。
+```
+[P,H]=hess(X) 
+```
 
 #### 6. 任意方阵的特征值分解 (Eigenvalue Decomposition)
 
+任意一个 n 阶方阵 X 可以分解为 XV=VD，其中 D 为 X 的特征值对角阵，V 为 X 的特征向量矩阵。
+```
+[V,D]=eig(X)
+```
+我们也可以计算广义特征值矩阵 D 和广义特征值向量矩阵 V，使得 XV = YVD。
+
+
 #### 7. 矩阵的奇异值分解 (Signular Value Decomposition)
+任意一个 mxn 维的矩阵 X 可以分解为 X=USV'，U 和 V 均为酉矩阵（unitiary matrix），S 为 mxn 维的对角矩阵，其对角线元素为 X 的从大到小排序的非负奇异值。
+
+```
+[U,S,V]=svd(X)
+```
 
 #### 8. 矩阵的几何均值分解 (Geometric Mean Decomposition)
+
+任意矩阵 mxn维的矩阵 X 可以分解为 X=QRP', Q 和 P 均为酉矩阵（unitiary matrix），R 为 kxk 维的实正线上三角矩阵，其主对角线元素均等于 X 的所有 K 个正奇异值的几何均值，k=rank(X)。
+对于复数的情况，定义则为：一个 nxn 的 Hermitian 矩阵 M 是正定的当且仅当对于每个非零的复向量 z ，都有 z'Mz > 0。其中 z' 表示z的共轭转置。由于 M 是 Hermitian 矩阵，经计算可知，对于任意的复向量 z，z'Mz 必然是实数，从而可以与 0 比较大小。因此这个定义是自洽的。正定方阵M的所有的特征值 λi 都是正的。
 
 
 ### 结尾
