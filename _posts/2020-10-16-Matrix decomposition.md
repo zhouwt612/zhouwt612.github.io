@@ -61,7 +61,7 @@ X 非对称正定时，输出错误信息。为使该分解不输出错误信息
 
 #### 4. 任意方阵的Schur分解
 
-任意一个 n 阶方阵 X 可以分解为 X=URU'，其中 U （unitiary）为酉矩阵，R 为上三角 schur 矩阵且其主对角线上的元素为 X 的特征值。
+任意一个 n 阶方阵 X 可以分解为 X=URU'，其中 U （unitary）为酉矩阵，R 为上三角 schur 矩阵且其主对角线上的元素为 X 的特征值。
 ```
 [U,R]=schur(X) 
 ```
@@ -83,7 +83,7 @@ X 非对称正定时，输出错误信息。为使该分解不输出错误信息
 
 
 #### 7. 矩阵的奇异值分解 (Signular Value Decomposition)
-任意一个 mxn 维的矩阵 X 可以分解为 X=USV'，U 和 V 均为酉矩阵（unitiary matrix），S 为 mxn 维的对角矩阵，其对角线元素为 X 的从大到小排序的非负奇异值。
+任意一个 mxn 维的矩阵 X 可以分解为 X=USV'，U 和 V 均为酉矩阵（unitary matrix），S 为 mxn 维的对角矩阵，其对角线元素为 X 的从大到小排序的非负奇异值。
 
 ```
 [U,S,V]=svd(X)
@@ -91,7 +91,7 @@ X 非对称正定时，输出错误信息。为使该分解不输出错误信息
 
 #### 8. 矩阵的几何均值分解 (Geometric Mean Decomposition)
 
-任意矩阵 mxn维的矩阵 X 可以分解为 X=QRP', Q 和 P 均为酉矩阵（unitiary matrix），R 为 kxk 维的实正线上三角矩阵，其主对角线元素均等于 X 的所有 K 个正奇异值的几何均值，k=rank(X)。
+任意矩阵 mxn维的矩阵 X 可以分解为 X=QRP', Q 和 P 均为酉矩阵（unitary matrix），R 为 kxk 维的实正线上三角矩阵，其主对角线元素均等于 X 的所有 K 个正奇异值的几何均值，k=rank(X)。
 对于复数的情况，定义则为：一个 nxn 的 Hermitian 矩阵 M 是正定的当且仅当对于每个非零的复向量 z ，都有 z'Mz > 0。其中 z' 表示 z 的共轭转置。由于 M 是 Hermitian 矩阵，经计算可知，对于任意的复向量 z，z'Mz 必然是实数，从而可以与 0 比较大小。正定方阵 M 的所有的特征值 λi 都是正数。
 
 
