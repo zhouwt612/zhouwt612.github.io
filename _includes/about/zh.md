@@ -23,11 +23,11 @@
 
 ##### 研究兴趣
 
-- 磁感应通信
-- 水下通信
-- 正交频分复用
-- 软件定义无线电
-- 强化学习
+- 水下磁感应通信
+- Cell-free 大规模MIMO通信
+- 多用户MIMO通信
+- 凸优化
+- 机器学习
 
 ##### 研究经历
 
@@ -39,7 +39,7 @@
   Topic: Underwater Magnetic Induction Communication System
 
 ##### 获奖
-
+- 奖学金，高丽大学，Sep. 2020.
 - 优秀毕业生，桂林电子科技大学，Apr. 2020.
 - 最佳论文奖，韩国通信学会（KICS），Nov. 2019. 
 - VTS Seoul Chapter Award，APWCS，Aug. 2019.

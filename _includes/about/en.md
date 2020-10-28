@@ -24,15 +24,15 @@ These are my [**Blog**](https://wentaozhou.cn), [**Github**](http://github.com/z
 
 ##### Research Interests
 
-- Magnetic Induction Communication
-- Underwater Communication
-- Orthogonal Frequency Division Multiplexing
-- Software-defined Radio
-- Reinforcement Learning
+- Underwater Magnetic Induction Communication
+- Cell-free Massive MIMO Communications
+- Multiuser MIMO Communications
+- Convex Optimization
+- Machine Learning
 
 ##### Research Experience
 
-- 03/2020 - Present: Korea University, New Engineering Building, South Korea
+- 03/2020 - Present: Korea University, New Engineering Building, South Korea  
   Research Assistant, Communication and Intelligence System Lab (CISL)
 
 - 03/2018 – 02/2020: Soongsil University, Engineering Building, South Korea  
@@ -40,6 +40,7 @@ These are my [**Blog**](https://wentaozhou.cn), [**Github**](http://github.com/z
   Topic: Underwater Magnetic Induction Communication System  
 
 ##### Awards
+- Scholarship, Korea University, Sep. 2020.
 - Outstanding Graduates, GUET, Apr. 2020.
 - Best Paper Award, KICS, Nov. 2019.
 - VTS Seoul Chapter Award, APWCS, Aug. 2019.
