@@ -16,7 +16,8 @@ tags:
 ### 基础理论
 
 
-![Agoda ST]（https://raw.githubusercontent.com/zhouwt612/zhouwt612.github.io/master/_posts/Photos/2020-10-28/Correlation_matrix.png)
+
+![Example: 2x2 MIMO](https://raw.githubusercontent.com/zhouwt612/zhouwt612.github.io/master/_posts/Photos/2020-10-28/Correlation_matrix.png)
 
 ### 代码实现
 假设一个 2x2 的 MIMO 信道。
