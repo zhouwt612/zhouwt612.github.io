@@ -17,6 +17,18 @@ tags:
 
 
 ### 代码实现
+假设一个 2x2 的 MIMO 信道。
+```
+clc
+clear
+close all
+
+h = sqrt(1/2)*(randn(2,2)+1i*randn(2,2));
+vech = h(:);
+vechh = vech';
+
+R = vech*vechh;
+```
 
 
 ### 结尾
