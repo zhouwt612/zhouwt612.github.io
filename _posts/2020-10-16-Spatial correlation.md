@@ -26,7 +26,7 @@ clc
 clear
 close all
 
-h = sqrt(1/2)*(randn(2,2)+1i*randn(2,2));
+h;
 vech = h(:);
 vechh = vech';
 
