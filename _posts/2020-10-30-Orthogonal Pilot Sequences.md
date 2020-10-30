@@ -16,7 +16,7 @@ tags:
 ### 正交导频序列
 由于同 cell 中的干扰对 SINR 的影响更大，通常在信道估计中，使用正交导频来尽可能的消除同 cell 中的干扰。导频是在所有元素都具有单位大小的条件下设计的，即  <img src="http://chart.googleapis.com/chart?cht=tx&chl= phi_{i_1,i_2} = 1 for i_1 = 1,...,/tau_p, i_2 = 1,...,/tau_p" style="border:none;">
 
-
+<img src="https://latex.codecogs.com/png.latex? phi_{i_1,i_2} = 1 for i_1 = 1,...,/tau_p, i_2 = 1,...,/tau_p">
 
 
 
