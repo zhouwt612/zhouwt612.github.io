@@ -26,3 +26,5 @@ phi_{i_1,i_2} = 1 for i_1 = 1,...,/tau_p, i_2 = 1,...,/tau_p
 2. [Hadamard matrix](https://en.wikipedia.org/wiki/Hadamard_matrix)
 3. [Walsh matrix](https://en.wikipedia.org/wiki/Walsh_matrix)
 4. [DFT matrix](https://en.wikipedia.org/wiki/DFT_matrix)
+5. [Hadamard matrix in MATLAB](https://www.mathworks.com/help/matlab/ref/hadamard.html)
+6. [DFT matrix in MATLAB](https://www.mathworks.com/help/signal/ref/dftmtx.html)
