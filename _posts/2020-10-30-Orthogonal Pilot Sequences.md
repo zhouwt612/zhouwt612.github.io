@@ -19,6 +19,13 @@ tags:
 ```
 phi_{i_1,i_2} = 1 for i_1 = 1,...,/tau_p, i_2 = 1,...,/tau_p
 ```
+在这里，我们简要的介绍两种在 UMTS 和 LTE 中使用的导频矩阵。
+
+#### Walsh-Hadamard Matrix
+
+
+
+#### Discrete Fourier Transform Matrix
 
 
 ### 参考文献
