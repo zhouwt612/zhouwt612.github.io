@@ -21,3 +21,8 @@ phi_{i_1,i_2} = 1 for i_1 = 1,...,/tau_p, i_2 = 1,...,/tau_p
 ```
 
 
+### 参考文献
+1. [E. Björnson, J. Hoydis, and L. Sanguinetti, "Massive MIMO Networks: Spectral, Energy, and Hardware Efficiency," Foundations and Trends® in Signal Processing: Vol. 11, No. 3-4, pp 154–655.](https://massivemimobook.com/wp/)
+2. [Hadamard matrix](https://en.wikipedia.org/wiki/Hadamard_matrix)
+3. [Walsh matrix](https://en.wikipedia.org/wiki/Walsh_matrix)
+4. [DFT matrix](https://en.wikipedia.org/wiki/DFT_matrix)
