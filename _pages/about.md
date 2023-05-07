@@ -17,13 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, My name is Zhou, Wentao. Currently, I am pursuing a Ph.D. degree at Korea University in South Korea. I belong to the Department of Electrical and Computer Engineering with a specialization in wireless communication systems.
-
-My research interest includes wireless communications and robust signal processing.
+Hi, My name is Zhou, Wentao. Currently, I am pursuing a Ph.D. degree at Korea University in South Korea. I belong to the Department of Electrical and Computer Engineering with a specialization in wireless communication systems. My research interest includes wireless communications and robust signal processing.
 
 
 # News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 2023.05: I will attend .
 
 
 # Education
@@ -50,7 +48,6 @@ My research interest includes wireless communications and robust signal processi
 
 
 # Research Experience
-
 - 03/2020 - Now: Korea University, New Engineering Building, South Korea  
   Research Assistant, Communication and Intelligent System Lab (CISL)
   Topic: Robust Precoding Designs for Multiple Antenna Systems with Limited Feedback
@@ -58,6 +55,7 @@ My research interest includes wireless communications and robust signal processi
 - 03/2018 – 02/2020: Soongsil University, Engineering Building, South Korea  
   Research Assistant, Communication & Information Processing (CIP) Lab  
   Topic: Underwater Magnetic Induction Communication System
+
 
 # Honors and Awards
 - Scholarship, Korea University, Sep. 2020.
@@ -69,10 +67,9 @@ My research interest includes wireless communications and robust signal processi
 
 <span class='anchor' id='publication'></span>
 
+
 # Selected Publications
-
-
-</div>- [Lorem](https://github.com), A, B, C, **CVPR 2020**</div>
+- [Lorem](https://github.com), A, B, C, **CVPR 2020**
 
 
 
