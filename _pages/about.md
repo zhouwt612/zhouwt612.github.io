@@ -20,10 +20,6 @@ redirect_from:
 Hi, My name is Zhou, Wentao. Currently, I am pursuing a Ph.D. degree at Korea University in South Korea. I belong to the Department of Electrical and Computer Engineering with a specialization in wireless communication systems. My research interest includes wireless communications and robust signal processing.
 
 
-# News
-- 2023.05: I will attend .
-
-
 # Education
 - 2020.03 - Now: Ph.D. Candidate in Electrical and Computer Engineering  
   Korea University (KU), Seoul, South Korea  
@@ -65,11 +61,10 @@ Hi, My name is Zhou, Wentao. Currently, I am pursuing a Ph.D. degree at Korea Un
 - Scholarship, Soongsil University, Mar. 2018 - Feb. 2020.
 - Scholarship, Guilin University of Electronic Technology, 2017.
 
+
 <span class='anchor' id='publication'></span>
 
-
 # Selected Publications
-- [Lorem](https://github.com), A, B, C, **CVPR 2020**
 
 
 
