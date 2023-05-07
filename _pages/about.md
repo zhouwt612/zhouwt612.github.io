@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am Zhou, Wentao. I am studying for a doctoral degree in Electrical and Computer Engineering in South Korea.
+Hi, My name is Zhou, Wentao. Currently, I am pursuing a Ph.D. degree at Korea University in South Korea. I belong to the Department of Electrical and Computer Engineering with a specialization in wireless communication systems.
 
 My research interest includes wireless communications and robust signal processing.
 
