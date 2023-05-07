@@ -29,7 +29,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "wtzhou@korea.ac.kr"
-  researchgate     : "https://www.researchgate.net/profile/Wentao-Zhou-7"
+  researchgate     : # "https://www.researchgate.net/profile/Wentao-Zhou-7"
   uri              :
   bitbucket        :
   codepen          :
