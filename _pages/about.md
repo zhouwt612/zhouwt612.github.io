@@ -62,8 +62,6 @@ Hi, My name is Zhou, Wentao. Currently, I am pursuing a Ph.D. degree at Korea Un
 - Scholarship, Guilin University of Electronic Technology, 2017.
 
 
-<span class='anchor' id='publication'></span>
-
 # Selected Publications
 
 
