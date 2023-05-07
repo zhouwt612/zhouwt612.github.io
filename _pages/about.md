@@ -24,7 +24,7 @@ Hi, My name is Zhou, Wentao. Currently, I am pursuing a Ph.D. degree at Korea Un
 - 2020.03 - Now: Ph.D. Candidate in Electrical and Computer Engineering  
   Korea University (KU), Seoul, South Korea  
   Major: Communication and Networks  
-  Supervisor: [**Inkyu Lee**](https://ieeexplore.ieee.org/author/37279664500)
+  Supervisor: [**Inkyu Lee**](http://wireless.korea.ac.kr/page/sub0101.php)
   
 - 2018.03 - 2020.02: M.Sc. in Electrical Engineering  
   Soongsil University (SSU), Seoul, South Korea  
