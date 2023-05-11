@@ -37,10 +37,11 @@ Hi, My name is Zhou, Wentao. Currently, I am pursuing a Ph.D. degree at Korea Un
   
   
 # Research Interests
-- Underwater Magnetic Induction Communication
-- MU-MIMO Communications
+- Multiple Antenna Communications
 - Limited Feedback Systems
 - Convex Optimization
+- Robust Signal Processing
+- Magnetic Induction Communication
 
 
 # Research Experience
