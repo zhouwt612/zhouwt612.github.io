@@ -65,5 +65,3 @@ Hi, My name is Zhou, Wentao. Currently, I am pursuing a Ph.D. degree at Korea Un
 
 # Selected Publications
 - **Wentao Zhou**, Di Zhang, Merouane Debbah, and Inkyu Lee, Robust Precoding Designs for Multiuser MIMO Systems with Limited Feedback, accepted at *IEEE Transactions on Wireless Communications*, February 2024.
-
-
