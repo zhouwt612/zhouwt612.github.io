@@ -37,11 +37,7 @@ Hi, My name is Zhou, Wentao. Currently, I am pursuing a Ph.D. degree at Korea Un
   
   
 # Research Interests
-- Multiple Antenna Communications
-- Limited Feedback Systems
-- Convex Optimization
-- Robust Signal Processing
-- Magnetic Induction Communication
+- Multiple Antenna Communications, Limited Feedback Systems, Convex Optimization, Robust Signal Processing, Magnetic Induction Communication
 
 
 # Research Experience
@@ -53,6 +49,9 @@ Hi, My name is Zhou, Wentao. Currently, I am pursuing a Ph.D. degree at Korea Un
   Research Assistant, Communication & Information Processing (CIP) Lab  
   Topic: Underwater Magnetic Induction Communication System
 
+# Teaching Experience
+- 03/2024 - Now: Korea University
+  Teaching Assistant, Multi-antenna theory
 
 # Honors and Awards
 - KU-GAG Scholarship, Korea University, Mar. 2024.
