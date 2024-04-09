@@ -55,7 +55,8 @@ Hi, My name is Zhou, Wentao. Currently, I am pursuing a Ph.D. degree at Korea Un
 
 
 # Honors and Awards
-- Scholarship, Korea University, Sep. 2020.
+- KU-GAG Scholarship, Korea University, Mar. 2024.
+- Scholarship, Korea University, Sep. 2020 - Sep. 2022.
 - Outstanding Graduates, GUET, Apr. 2020.
 - Best Paper Award, KICS, Nov. 2019.
 - VTS Seoul Chapter Award, APWCS, Aug. 2019.
@@ -64,4 +65,4 @@ Hi, My name is Zhou, Wentao. Currently, I am pursuing a Ph.D. degree at Korea Un
 
 
 # Selected Publications
-- **Wentao Zhou**, Di Zhang, Merouane Debbah, and Inkyu Lee, [Robust Precoding Designs for Multiuser MIMO Systems with Limited Feedback](https://ieeexplore.ieee.org/document/10438396), *IEEE Transactions on Wireless Communications*, To appear. [**Code**](https://github.com/zhouwt612/MIMO-LF-robust-precoding)
+- **Wentao Zhou**, Di Zhang, Merouane Debbah, and Inkyu Lee, [Robust Precoding Designs for Multiuser MIMO Systems with Limited Feedback](https://ieeexplore.ieee.org/document/10438396), *IEEE Transactions on Wireless Communications*, To appear. [[**Code**]](https://github.com/zhouwt612/MIMO-LF-robust-precoding)
