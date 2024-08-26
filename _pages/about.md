@@ -45,9 +45,9 @@ Hi, My name is Zhou, Wentao. Currently, I am pursuing a Ph.D. degree at Korea Un
 
 
 # Research Experience
-- 08/2024 - Now: Khalifa University, A Building, Abu Dhabi
-  Visiting Researcher, 6G Research Center
-  Topic: LLM-based Optimization Solver Design
+- 08/2024 - Now: Khalifa University, A Building, Abu Dhabi  
+  Visiting Researcher, 6G Research Center  
+  Topic: LLM-based Optimization Solver Design  
 
 - 03/2020 - Now: Korea University, New Engineering Building, South Korea  
   Research Assistant, Communication and Intelligent System Lab (CISL) 
