@@ -50,7 +50,7 @@ Hi, My name is Zhou, Wentao. Currently, I am pursuing a Ph.D. degree at Korea Un
   Topic: LLM-based Optimization Solver Design  
 
 - 03/2020 - Now: Korea University, New Engineering Building, South Korea  
-  Research Assistant, Communication and Intelligent System Lab (CISL) 
+  Research Assistant, Communication and Intelligent System Lab (CISL)  
   Topic: Robust Precoding Designs for Multiple Antenna Systems with Limited Feedback
 
 - 03/2018 – 02/2020: Soongsil University, Engineering Building, South Korea  
