@@ -22,7 +22,7 @@ Hi, My name is Zhou, Wentao. Currently, I am pursuing a Ph.D. degree at Korea Un
 
 # Education
 - 2024.08 - Now: Visiting Researcher in Computer and Information Engineering
-  Khalifa University (KU), Abu Dhabi, UAE
+  Khalifa University (KU), Abu Dhabi, UAE  
   Supervisor: [**Merouane Debbah**](https://www.ku.ac.ae/college-people/merouane-debbah) and [**Samson Lasaulce**](https://www.ku.ac.ae/college-people/samson-lasaulce)
 
 - 2020.03 - Now: Ph.D. Candidate in Electrical and Computer Engineering  
