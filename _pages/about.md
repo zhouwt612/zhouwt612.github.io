@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, My name is Zhou, Wentao. Currently, I am pursuing a Ph.D. degree at Korea University in South Korea. I belong to the Department of Electrical and Computer Engineering with a specialization in wireless communication systems. My research interest includes wireless communications and robust signal processing.
+Hi, My name is Zhou, Wentao (周文涛). Currently, I am pursuing a Ph.D. degree at Korea University in Seoul, South Korea. I am also a visiting researcher at Khalifa University in Abu Dhabi, UAE. My research area is wireless communications. My research interest includes physical wireless communications and robust signal processing. 
 
 
 # Education
