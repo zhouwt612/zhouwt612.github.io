@@ -41,7 +41,7 @@ Hi, My name is Zhou, Wentao (周文涛). Currently, I am pursuing a Ph.D. degree
   
   
 # Research Interests
-- Multiple Antenna Communications, Limited Feedback Systems, Convex Optimization, Robust Signal Processing, Magnetic Induction Communication
+- Large Language Models, Multiple Antenna Communications, Limited Feedback Systems, Convex Optimization, Statistical Signal Processing, Magnetic Induction Communication
 
 
 # Research Experience
