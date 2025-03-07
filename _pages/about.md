@@ -21,14 +21,14 @@ Hi, My name is Zhou, Wentao (周文涛). Currently, I am pursuing a Ph.D. degree
 
 
 # Education
-- 2024.08 - Now: Visiting Researcher in Computer and Information Engineering  
-  Khalifa University (KU), Abu Dhabi, UAE  
-  Supervisor: [**Merouane Debbah**](https://www.ku.ac.ae/college-people/merouane-debbah) and [**Samson Lasaulce**](https://www.ku.ac.ae/college-people/samson-lasaulce)
-
 - 2020.03 - Now: Ph.D. Candidate in Electrical and Computer Engineering  
   Korea University (KU), Seoul, South Korea  
   Major: Communication and Networks  
   Supervisor: [**Inkyu Lee**](http://wireless.korea.ac.kr/page/sub0101.php)
+  
+- 2024.08 - 2024.10: Visiting Researcher in Computer and Information Engineering  
+  Khalifa University (KU), Abu Dhabi, UAE  
+  Supervisor: [**Merouane Debbah**](https://www.ku.ac.ae/college-people/merouane-debbah) and [**Samson Lasaulce**](https://www.ku.ac.ae/college-people/samson-lasaulce)
   
 - 2018.03 - 2020.02: M.Sc. in Electrical Engineering  
   Soongsil University (SSU), Seoul, South Korea  
@@ -58,18 +58,19 @@ Hi, My name is Zhou, Wentao (周文涛). Currently, I am pursuing a Ph.D. degree
   Topic: Underwater Magnetic Induction Communication System
 
 # Teaching Experience
+- 03/2025 - 07/2025: Korea University
+  Teaching Assistant, Mobile Communication Engineering
 - 03/2024 - 07/2024: Korea University 
   Teaching Assistant, Multi-antenna theory
 
 # Honors and Awards
 - KU-GAG Scholarship, Korea University, Mar. 2024.
 - Scholarship, Korea University, Sep. 2020 - Sep. 2022.
-- Outstanding Graduates, GUET, Apr. 2020.
 - Best Paper Award, KICS, Nov. 2019.
 - VTS Seoul Chapter Award, APWCS, Aug. 2019.
 - Scholarship, Soongsil University, Mar. 2018 - Feb. 2020.
 - Scholarship, Guilin University of Electronic Technology, 2017.
 
-
 # Selected Publications
+- Hoon Lee, Mintae Kim, Seunghwan Baek, **Wentao Zhou**, Merouane Debbah, and Inkyu Lee, AI-Driven Decentralized Network Management: Leveraging Multi-Agent Large Language Models for Scalable Optimization, *IEEE Commun. Mag.*, accepted.
 - **Wentao Zhou**, Di Zhang, Merouane Debbah, and Inkyu Lee, [Robust Precoding Designs for Multiuser MIMO Systems with Limited Feedback](https://ieeexplore.ieee.org/document/10438396), *IEEE Trans. Wireless Commun.*, vol.23, no. 8, pp. 9583-9595, Aug. 2024. [[**Code**]](https://github.com/zhouwt612/MIMO-LF-robust-precoding)
