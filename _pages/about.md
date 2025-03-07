@@ -17,26 +17,26 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, My name is Zhou, Wentao (周文涛). Currently, I am pursuing a Ph.D. degree at Korea University in Seoul, South Korea. I am also a visiting researcher at Khalifa University in Abu Dhabi, UAE. My research area is wireless communications. My research interest includes physical wireless communications and robust signal processing. 
+Hi, My name is Zhou, Wentao (周文涛). Currently, I am pursuing a Ph.D. degree at Korea University in Seoul, South Korea. I was a visiting researcher at Khalifa University in Abu Dhabi, UAE. My research area is wireless communications. My research interest includes physical wireless communications, statistical signal processing, and large language models. 
 
 
 # Education
 - 2020.03 - Now: Ph.D. Candidate in Electrical and Computer Engineering  
-  Korea University (KU), Seoul, South Korea  
+  Korea University, Seoul, South Korea  
   Major: Communication and Networks  
   Supervisor: [**Inkyu Lee**](http://wireless.korea.ac.kr/page/sub0101.php)
   
 - 2024.08 - 2024.10: Visiting Researcher in Computer and Information Engineering  
-  Khalifa University (KU), Abu Dhabi, UAE  
+  Khalifa University, Abu Dhabi, UAE  
   Supervisor: [**Merouane Debbah**](https://www.ku.ac.ae/college-people/merouane-debbah) and [**Samson Lasaulce**](https://www.ku.ac.ae/college-people/samson-lasaulce)
   
 - 2018.03 - 2020.02: M.Sc. in Electrical Engineering  
-  Soongsil University (SSU), Seoul, South Korea  
+  Soongsil University, Seoul, South Korea  
   Major: Wireless Communication Systems  
   Supervisor: [**Yoan Shin**](https://ieeexplore.ieee.org/author/37279496500)  
   
 - 2013.09 - 2017.07: B.Sc. in Electrical Engineering  
-  Guilin University of Electronic Technology (GUET), Guilin, China  
+  Guilin University of Electronic Technology, Guilin, China  
   Major: Optoelectronic Information Science and Engineering
   
   
@@ -72,5 +72,5 @@ Hi, My name is Zhou, Wentao (周文涛). Currently, I am pursuing a Ph.D. degree
 - Scholarship, Guilin University of Electronic Technology, 2017.
 
 # Selected Publications
-- Hoon Lee, Mintae Kim, Seunghwan Baek, **Wentao Zhou**, Merouane Debbah, and Inkyu Lee, AI-Driven Decentralized Network Management: Leveraging Multi-Agent Large Language Models for Scalable Optimization, *IEEE Commun. Mag.*, accepted.
+- Hoon Lee, Mintae Kim, Seunghwan Baek, **Wentao Zhou**, Merouane Debbah, and Inkyu Lee, AI-Driven Decentralized Network Management: Leveraging Multi-Agent Large Language Models for Scalable Optimization, *IEEE Commun. Mag.*, accepted. 
 - **Wentao Zhou**, Di Zhang, Merouane Debbah, and Inkyu Lee, [Robust Precoding Designs for Multiuser MIMO Systems with Limited Feedback](https://ieeexplore.ieee.org/document/10438396), *IEEE Trans. Wireless Commun.*, vol.23, no. 8, pp. 9583-9595, Aug. 2024. [[**Code**]](https://github.com/zhouwt612/MIMO-LF-robust-precoding)
