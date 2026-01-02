@@ -48,15 +48,18 @@ Hi, my name is Zhou Wentao (周文涛). I am currently a Senior Staff Engineer a
 
 
 # Research Experience
-- 03/2020 - 08/2025: Korea University, New Engineering Building, South Korea  
+- 2025.12 - Now: Huawei Singapore Research Center, Singapore  
+  Senior Staff Engineer, Short-range Communication  
+  
+- 2020.03 - 2025.08: Korea University, New Engineering Building, South Korea  
   Research Assistant, Communication and Intelligent System Lab (CISL)  
   Topic: Robust Precoding Designs for Multiple Antenna Systems with Limited Feedback
   
-- 08/2024 - 11/2024: Khalifa University, A Building, Abu Dhabi  
+- 2024.08 - 2024.10: Khalifa University, A Building, Abu Dhabi  
   Visiting Researcher, 6G Research Center  
   Topic: LLM-based Optimization Solver Design  
 
-- 03/2018 – 02/2020: Soongsil University, Engineering Building, South Korea  
+- 2018.03 - 2020.02: Soongsil University, Engineering Building, South Korea  
   Research Assistant, Communication & Information Processing (CIP) Lab  
   Topic: Underwater Magnetic Induction Communication System
 
