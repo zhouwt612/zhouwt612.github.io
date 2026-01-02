@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, My name is Zhou, Wentao (周文涛). Currently, I am pursuing a Ph.D. degree at Korea University in Seoul, South Korea. I was a visiting researcher at Khalifa University in Abu Dhabi, UAE. My research area is wireless communications. My research interest includes physical wireless communications, statistical signal processing, and large language models. 
+Hi, my name is Zhou Wentao (周文涛). I am currently a Senior Staff Engineer at Huawei Singapore Research Center, specializing in short-range communications. I earned my Ph.D. in Electrical Engineering from Korea University. My research interests include physical layer wireless communications, statistical signal processing, and large language models. 
 
 
 # Education
-- 2020.03 - Now: Ph.D. Candidate in Electrical and Computer Engineering  
+- 2020.03 - 2025.08: Ph.D. Candidate in Electrical and Computer Engineering  
   Korea University, Seoul, South Korea  
   Major: Communication and Networks  
   Supervisor: [**Inkyu Lee**](http://wireless.korea.ac.kr/page/sub0101.php)
@@ -41,15 +41,18 @@ Hi, My name is Zhou, Wentao (周文涛). Currently, I am pursuing a Ph.D. degree
   
   
 # Research Interests
-- Large Language Models, Multiple Antenna Communications, Limited Feedback Systems, Convex Optimization, Statistical Signal Processing, Magnetic Induction Communication
+- Multiple-antenna systems (MIMO, precoding, multiple access technique, etc.)  
+- Optimization theory and its applications in wireless communications  
+- Statistical signal processing  
+- Large language models (LLMs) and their applications in optimization and communication systems  
 
 
 # Research Experience
-- 08/2024 - Now: Khalifa University, A Building, Abu Dhabi  
+- 08/2024 - 11/2024: Khalifa University, A Building, Abu Dhabi  
   Visiting Researcher, 6G Research Center  
   Topic: LLM-based Optimization Solver Design  
 
-- 03/2020 - Now: Korea University, New Engineering Building, South Korea  
+- 03/2020 - 08/2025: Korea University, New Engineering Building, South Korea  
   Research Assistant, Communication and Intelligent System Lab (CISL)  
   Topic: Robust Precoding Designs for Multiple Antenna Systems with Limited Feedback
 
@@ -57,6 +60,7 @@ Hi, My name is Zhou, Wentao (周文涛). Currently, I am pursuing a Ph.D. degree
   Research Assistant, Communication & Information Processing (CIP) Lab  
   Topic: Underwater Magnetic Induction Communication System
 
+<!--
 # Teaching Experience
 - 03/2025 - 07/2025: Korea University
   Teaching Assistant, Mobile Communication Engineering
@@ -74,3 +78,4 @@ Hi, My name is Zhou, Wentao (周文涛). Currently, I am pursuing a Ph.D. degree
 # Selected Publications
 - Hoon Lee, Mintae Kim, Seunghwan Baek, **Wentao Zhou**, Merouane Debbah, and Inkyu Lee, AI-Driven Decentralized Network Management: Leveraging Multi-Agent Large Language Models for Scalable Optimization, *IEEE Commun. Mag.*, accepted. 
 - **Wentao Zhou**, Di Zhang, Merouane Debbah, and Inkyu Lee, [Robust Precoding Designs for Multiuser MIMO Systems with Limited Feedback](https://ieeexplore.ieee.org/document/10438396), *IEEE Trans. Wireless Commun.*, vol.23, no. 8, pp. 9583-9595, Aug. 2024. [[**Code**]](https://github.com/zhouwt612/MIMO-LF-robust-precoding)
+-->
