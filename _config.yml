@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Wentao Zhou"
-description              : "A Ph.D. candidate"
+description              : "Ph.D., Senior Staff Engineer"
 repository               : "zhouwt612/zhouwt612.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Wentao Zhou"
   avatar           : "images/touxiang.jpg"
-  bio              : "Korea University"
-  location         : "Seoul, South Korea"
+  bio              : "Huawei"
+  location         : "Singapore"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
