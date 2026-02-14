@@ -17,18 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, my name is Zhou Wentao (周文涛). I am currently a Senior Staff Engineer at Huawei Singapore Research Center, specializing in short-range communications. I earned my Ph.D. in Electrical Engineering from Korea University. My research interests include physical layer wireless communications, statistical signal processing, and large language models. 
+Hi, my name is Zhou Wentao (周文涛). I am currently an engineer at Huawei Singapore Research Center, specializing in short-range communications within the IEEE 802.11 standards framework. I received my Ph.D. in Electrical Engineering from Korea University.
 
 
 # Education
-- 2020.03 - 2025.08: Ph.D. Candidate in Electrical and Computer Engineering  
+- 2020.03 - 2025.08: Ph.D. in Electrical and Computer Engineering  
   Korea University, Seoul, South Korea  
   Major: Communication and Networks  
   Supervisor: [**Inkyu Lee**](http://wireless.korea.ac.kr/page/sub0101.php)
   
 - 2024.08 - 2024.10: Visiting Researcher in Computer and Information Engineering  
   Khalifa University, Abu Dhabi, UAE  
-  Supervisor: [**Merouane Debbah**](https://www.ku.ac.ae/college-people/merouane-debbah) and [**Samson Lasaulce**](https://www.ku.ac.ae/college-people/samson-lasaulce)
+  Supervisor: [**Merouane Debbah**](https://www.ku.ac.ae/college-people/merouane-debbah)
   
 - 2018.03 - 2020.02: M.Sc. in Electrical Engineering  
   Soongsil University, Seoul, South Korea  
